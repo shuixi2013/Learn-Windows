@@ -1,0 +1,4 @@
+TARGETNAME=GetPagesDriver
+TARGETTYPE=DRIVER
+
+SOURCES=GetPagesDriver.cpp 
